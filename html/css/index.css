@@ -1,0 +1,46 @@
+.h1{
+    text-align: center;
+
+}
+.ul1{
+    margin-left: 75px;
+    color: blue;
+}
+header{
+    background-color: #29b6f6;
+    border-radius:15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.div2{
+    text-align: center;
+    margin-top: -100px;
+}
+li {
+    list-style: none;
+}
+img{
+    border-radius: 10px;
+}
+.div1{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+.h4{
+    color: blue;
+}
+.b1{
+   text-align: right;
+   
+
+}
+button{
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: white;
+}
+p{
+    font-size: 20px;
+}
